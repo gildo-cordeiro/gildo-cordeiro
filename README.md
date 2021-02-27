@@ -22,6 +22,6 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gildo-cordeiro&layout=compact)](https://github.com/gildo-cordeiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gildo-cordeiro&layout=compact)](https://github.com/gildo-cordeiro/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gildo-cordeiro&show_icons=true&theme=dark)
