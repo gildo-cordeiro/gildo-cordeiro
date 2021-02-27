@@ -7,7 +7,7 @@
 
 
 - :man_technologist: I’m currently working on [ESIG Software e Consultoria](https://www.esig.com.br/portal/) as a Web Developer
-- :mortar_board: Graduating in Information Technology - Universidade Federal do Rio Grande do Norte.
+- :mortar_board: Graduating in Information Technology - [Universidade Federal do Rio Grande do Norte](https://www.ufrn.br/).
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="35px" src="https://user-images.githubusercontent.com/38151364/109068896-3b4ad580-76cf-11eb-80f4-a94a55520d51.png" />
