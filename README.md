@@ -22,5 +22,3 @@
 <img align="left" alt="Git" width="30px" src="https://user-images.githubusercontent.com/38151364/109069510-12771000-76d0-11eb-9d29-51c7826848db.png" />
 <br />
 <br />
-
-![Gildo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gildo-cordeiro&show_icons=true&theme=dark)
