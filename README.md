@@ -2,8 +2,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/gildo-cordeiro/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/gildo-cordeiro-duarte-a39273115/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gildo.cordeiro/)](https://www.instagram.com/gildo.cordeiro/) 
-
 
 - :man_technologist: I’m currently working on [ESIG Software e Consultoria](https://www.esig.com.br/portal/) as a Web Developer
 - :mortar_board: Graduating in Information Technology - [Universidade Federal do Rio Grande do Norte](https://www.ufrn.br/).
