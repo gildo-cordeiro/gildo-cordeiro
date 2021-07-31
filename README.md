@@ -1,8 +1,4 @@
 ### Olá! Eu sou Gildo Cordeiro. 👋
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/gildo-cordeiro/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/gildo-cordeiro-duarte-a39273115/)
 
 - :man_technologist: Atualmente trabalho na [ESIG Software e Consultoria](https://www.esig.com.br/portal/) como Desenvolvedor Web
 - :mortar_board: Graduando em Tencologia da Informação - [Universidade Federal do Rio Grande do Norte](https://www.ufrn.br/).
