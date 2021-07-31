@@ -28,10 +28,14 @@
  
  ##
  <div> 
-  <a href = "mailto:gildo.duartec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gildo.duartec@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gildo-cordeiro-duarte-a39273115/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
   
-<!--Site para os icones: https://devicon.dev 
+<!--
+Site para os icones: https://devicon.dev 
 https://github.com/devicons/devicon/blob/master/icons/
+
+Site para badges:
+https://dev.to/envoy_/150-badges-for-github-pnk
 -->
