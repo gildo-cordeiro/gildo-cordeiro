@@ -1,6 +1,6 @@
 ### Olá! Eu sou Gildo Cordeiro. 👋
 
-- :man_technologist: Atualmente trabalho na [ESIG Software e Consultoria](https://www.esig.com.br/portal/) como Desenvolvedor Web
+- :man_technologist: Atualmente trabalho no [IFOOD](https://www.ifood.com.br/) como Software Engineer
 - :mortar_board: Graduando em Tencologia da Informação - [Universidade Federal do Rio Grande do Norte](https://www.ufrn.br/).
 
  <div>
