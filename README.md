@@ -1,6 +1,6 @@
 ### Olá! Eu sou Gildo Cordeiro. 👋
 
-- :man_technologist: Atualmente trabalho no [IFOOD](https://www.ifood.com.br/) como Software Engineer
+- :man_technologist: Atualmente trabalho na [ArcoTech](https://arcoeducacao.com.br/carreiras-tech/#quarta__encantam) como Software Engineer
 - :mortar_board: Graduando em Tencologia da Informação - [Universidade Federal do Rio Grande do Norte](https://www.ufrn.br/).
 
  <div>
